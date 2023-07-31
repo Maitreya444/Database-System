@@ -234,7 +234,7 @@ class DBMS
   }
 }
 
-class program538
+class DatabaseSystem
 {
   public static void main(String arg[])
   {
